@@ -23,6 +23,5 @@ def smallest_prime_factor(n):
 if __name__ == "__main__":
 	print(compute())
 	
-	
 
 	
